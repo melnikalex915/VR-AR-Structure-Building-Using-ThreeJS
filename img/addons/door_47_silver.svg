@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 288 503.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-13 {
+        filter: url(#Ellipse_2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.001" y1="0.001" x2="0.711" y2="0.711" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.5" stop-color="#d9d9d9"/>
+      <stop offset="0.74" stop-color="#ececec"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebe4dd"/>
+      <stop offset="0.28" stop-color="#6e6761"/>
+      <stop offset="0.4" stop-color="#746e68"/>
+      <stop offset="0.53" stop-color="#ede8e3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.01" y1="0.5" x2="0.36" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dfd4cb"/>
+      <stop offset="0.05" stop-color="#e7dcdb"/>
+      <stop offset="0.12" stop-color="#f0ebe8"/>
+      <stop offset="0.25" stop-color="#eae5e2"/>
+      <stop offset="0.32" stop-color="#e2ddd9"/>
+      <stop offset="0.35" stop-color="#e8e3de"/>
+      <stop offset="0.62" stop-color="#f3f0ec"/>
+      <stop offset="0.67" stop-color="#eeeceb"/>
+      <stop offset="0.71" stop-color="#e5e0de"/>
+      <stop offset="0.73" stop-color="#f1efec"/>
+      <stop offset="0.78" stop-color="#f2efef"/>
+      <stop offset="1" stop-color="#e5d9c9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-9314.06" y1="1" x2="-9314.06" y2="0" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="-9125.98" x2="-9126.34" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="-9212.61" y1="1" x2="-9212.61" y2="0" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-7" x1="1" x2="0" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-8" x1="0.146" y1="0.854" x2="0.766" y2="0.234" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.029" stop-color="#ececec"/>
+      <stop offset="0.164" stop-color="#eaeaea"/>
+      <stop offset="0.319" stop-color="#d8d8d8"/>
+      <stop offset="0.441" stop-color="#bdbdbd"/>
+      <stop offset="0.659" stop-color="#d9d9d9"/>
+      <stop offset="0.923" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Ellipse_2" x="235.664" y="234.72" width="24" height="24" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#6e6868"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5e2df"/>
+      <stop offset="0" stop-color="#d6d7d7"/>
+      <stop offset="0" stop-color="#d1d3d4"/>
+      <stop offset="0.07" stop-color="#edeeee"/>
+      <stop offset="0.11" stop-color="#fff"/>
+      <stop offset="0.13" stop-color="#f5f5f6"/>
+      <stop offset="0.17" stop-color="#dbdcdd"/>
+      <stop offset="0.22" stop-color="#b1b2b4"/>
+      <stop offset="0.25" stop-color="#97999c"/>
+      <stop offset="0.27" stop-color="#9a9c9e"/>
+      <stop offset="0.29" stop-color="#a2a4a7"/>
+      <stop offset="0.3" stop-color="#b0b2b4"/>
+      <stop offset="0.31" stop-color="#c4c6c8"/>
+      <stop offset="0.31" stop-color="#d1d3d4"/>
+      <stop offset="0.42" stop-color="#c8caca"/>
+      <stop offset="0.59" stop-color="#b0b0b0"/>
+      <stop offset="0.65" stop-color="#a6a6a6"/>
+      <stop offset="0.68" stop-color="#b0b0b0"/>
+      <stop offset="0.74" stop-color="#cacaca"/>
+      <stop offset="0.74" stop-color="#ccc"/>
+      <stop offset="0.75" stop-color="#d6d6d6"/>
+      <stop offset="0.76" stop-color="#e1e1e1"/>
+      <stop offset="0.78" stop-color="#e5e5e5"/>
+      <stop offset="0.8" stop-color="#f0f0f0"/>
+      <stop offset="0.84" stop-color="#fbfbfb"/>
+      <stop offset="0.88" stop-color="#fff"/>
+      <stop offset="0.9" stop-color="#eaebec"/>
+      <stop offset="0.92" stop-color="#d0d2d3"/>
+      <stop offset="0.95" stop-color="#bebfc2"/>
+      <stop offset="0.97" stop-color="#b3b5b7"/>
+      <stop offset="1" stop-color="#afb1b4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="1" y1="0.5" x2="0" y2="0.5" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-11" x1="1" y1="0.5" x2="0" y2="0.5" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-12" y1="1" y2="0" xlink:href="#linear-gradient-9"/>
+  </defs>
+  <g id="door_4_7_silver" data-name="door_4*7_silver" transform="translate(-6516.836 -1564.78)">
+    <g id="Group_22" data-name="Group 22" transform="translate(1274 1407)">
+      <g id="Group" transform="translate(5246.991 158.271)">
+        <g id="Doors_01__-01" transform="translate(0)">
+          <path id="Shape" class="cls-1" d="M87.816,66.427H357.453V553.886H87.816Z" transform="translate(-87.816 -65.7)"/>
+          <rect id="Rectangle-path" class="cls-2" width="2.57" height="496.459" transform="translate(14.28)"/>
+          <path id="Shape-2" data-name="Shape" class="cls-3" d="M252.063,2683.029v.23a2.143,2.143,0,0,1,.04-.366A.328.328,0,0,0,252.063,2683.029Z" transform="translate(-233.846 -2427.813)"/>
+          <path id="Shape-3" data-name="Shape" class="cls-4" d="M295.336,2684.772v.368A.814.814,0,0,0,295.336,2684.772Z" transform="translate(-272.319 -2429.51)"/>
+          <path id="Shape-4" data-name="Shape" class="cls-5" d="M201.382,2682.031v.23a2.173,2.173,0,0,1,.039-.369A.35.35,0,0,0,201.382,2682.031Z" transform="translate(-188.786 -2426.91)"/>
+          <path id="Shape-5" data-name="Shape" class="cls-6" d="M244.626,2683.792v.368a.5.5,0,0,0,.023-.183A.5.5,0,0,0,244.626,2683.792Z" transform="translate(-227.233 -2428.625)"/>
+          <path id="Shape-6" data-name="Shape" class="cls-7" d="M2360.7,556.393l3.311,0,.006-495.869H2360.7Z" transform="translate(-2098.628 -59.935)"/>
+          <g id="Oval" transform="translate(238.009 236.729)">
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.5" cy="7.5" r="7.5"/>
+            <g class="cls-13" transform="matrix(1, 0, 0, 1, -242.16, -237.22)">
+              <circle id="Ellipse_2-2" data-name="Ellipse 2" class="cls-8" cx="7.5" cy="7.5" r="7.5" transform="translate(242.16 237.22)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Shape-7" data-name="Shape" class="cls-9" d="M298.488.16,10.923.089l18.8,14.822,251.181.483Z" transform="translate(5231.913 157.8)"/>
+      <path id="Shape-8" data-name="Shape" class="cls-10" d="M.668.23.61,503.98H19.5l.04-488.825Z" transform="translate(5242.39 157.799)"/>
+      <path id="Shape-9" data-name="Shape" class="cls-11" d="M2379.552,15.161V503.98h17.64l.543-504Z" transform="translate(3132.863 157.8)"/>
+      <path id="Shape-10" data-name="Shape" class="cls-12" d="M11.086,5042.2H298.922l-19.378-14.932H31.742Z" transform="translate(5231.914 -4380.421)"/>
+    </g>
+  </g>
+</svg>
